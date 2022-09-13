@@ -1,7 +1,7 @@
 # Desafio para vaga Back-end - JUNIOR
 
 Por favor leiam este documento do começo ao fim, com muita atenção.
-O intuito deste teste é avaliar seus conhecimentos técnicos com o back-end, para ser mais específico em Ruby.
+O intuito deste teste é avaliar seus conhecimentos técnicos com o back-end, para ser mais específico em Python.
 
 O teste consiste em parsear [este arquivo de texto(CNAB)](https://github.com/Kenzie-Academy-Brasil-Developers/desafio-backend-m6/blob/main/CNAB.txt) e salvar suas informações(transações financeiras) em uma base de dados a critério do candidato.
 
